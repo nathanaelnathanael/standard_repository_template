@@ -26,9 +26,9 @@ This repository serves as a template to structure and organize your data analysi
 
 - **README.md**: Provides an overview and documentation for the project, explaining the purpose, structure, usage, and any other essential information for collaborators.
 
-- **environment.yml**: For Conda users, this file allows for the easy creation of an environment that mirrors the project’s dependencies.
+- **environment.yml**: For Conda users, this file allows for the easy creation of an environment that mirrors the project’s dependencies. Generate/overwrite with `conda env export > environment.yml`
 
-- **requirements.txt**: Lists all the necessary packages/libraries and their respective versions required for the project, enabling the recreation of the virtual environment used for development.
+- **requirements.txt**: Lists all the necessary packages/libraries and their respective versions required for the project, enabling the recreation of the virtual environment used for development. Generate/overwrite with `pip freeze > requirements.txt `
 
 ## Getting Started
 
