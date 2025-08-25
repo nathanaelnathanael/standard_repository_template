@@ -46,3 +46,4 @@ Refer to the `LICENSE` file for the full licensing agreement of the project.
 
 - This repository is a template and should be customized to fit the specifics of the project it is being used for.
 - Remember to keep your `README.md` updated as your project evolves, ensuring that any new contributors or users can easily understand and use your repository.
+- I am making a change to this document.
